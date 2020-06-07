@@ -1,2 +1,2 @@
-# accelerated_cpp
+# Accelerated C++
 Solutions to exercises from the book Accelerated C++
